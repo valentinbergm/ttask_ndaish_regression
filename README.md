@@ -8,8 +8,9 @@
 **Результати:**
 - LTV за 1 рік: **1.3819 USD**
 - Прогнозований дохід від когорт 39–43: **91,574 USD**
-
 - Точність моделі: R² = 0.9703, MAPE (без Week 0) = 3.70%
 
-**Переглянути ноутбук:**
-→ [Відкрити ноутбук на GitHub](https://github.com/valentinbergm/ttask_ndaish_regression/blob/main/wisey_ttask_valentyn_m(To%20verify).ipynb)
+**Переглянути повний аналіз:**
+→ [➡️ Відкрити Jupyter Notebook](https://github.com/valentinbergm/ttask_ndaish_regression/blob/main/wisey_ttask_valentyn_m(To%20verify).ipynb)
+
+Використана модель: логарифмічна регресія (Level-Log).
