@@ -10,7 +10,5 @@
 - Прогнозований дохід від когорт 39–43: **91,574 USD**
 - Точність моделі: R² = 0.9703, MAPE (без Week 0) = 3.70%
 
-**Переглянути ноутбук онлайн:**
-→ [Відкрити в nbviewer](встав_сюди_посилання_від_nbviewer)
-
-Використана модель: логарифмічна регресія (Level-Log).
+**Переглянути ноутбук:**
+→ [Відкрити ноутбук на GitHub](https://github.com/valentinbergm/ttask_ndaish_regression/blob/main/wisey_ttask_valentyn_m(To%20verify).ipynb)
