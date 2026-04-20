@@ -13,4 +13,10 @@
 **Переглянути повний аналіз:**
 → [➡️ Відкрити Jupyter Notebook](https://github.com/valentinbergm/ttask_ndaish_regression/blob/main/wisey_ttask_valentyn_m(To%20verify).ipynb)
 
+
+*For a full, step-by-step walkthrough of the analysis, please see the accompanying Jupyter Notebook:* ### **[➡️ View the Full Analysis Notebook](https://github.com/valentinbergm/ttask_ndaish_regression/blob/main/wisey_ttask_valentyn_m(To%20verify).ipynb)**
+
+
+
+
 Використана модель: логарифмічна регресія (Level-Log).
